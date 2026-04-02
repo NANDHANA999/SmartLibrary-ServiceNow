@@ -63,4 +63,21 @@ The Smart Library Request Workflow is a ServiceNow-based application designed to
 ## Conclusion
 
 This project demonstrates how ServiceNow can be used to automate real-world processes such as library management, improving efficiency, accuracy, and user experience.
+## Project Modules
+
+* Database Layer
+* User Interface Layer
+* Workflow Automation
+* Security (ACLs)
+* Reporting Module
+
+---
+
+## Learning Outcome
+
+* Understanding ServiceNow platform
+* Implementing workflows
+* Managing data using tables
+* Creating automation using Flow Designer
+
 
